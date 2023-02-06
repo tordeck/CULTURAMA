@@ -179,3 +179,22 @@
 .rodape__logo {
     align-self: flex-end;
 }
+@media (min-width: 1440px) {
+    .eventos__lista{ 
+    
+       padding-right: 200px;
+       justify-content: space-around;
+       
+    }   
+    .agenda__lista {
+      padding-right: 200px;
+    }
+    .eventos__botao {
+        width: 100%;
+        text-align: end;
+    }
+    .agenda__botao {        
+        width: 100%;
+        text-align: end;
+    }
+}
