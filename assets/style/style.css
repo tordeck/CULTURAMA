@@ -180,7 +180,7 @@ img:hover {
 }
 
 .destaques__titulo {
-    margin: 1rem 0;
+    margin: 0;
 }
 
 .destaques__barra {
@@ -466,7 +466,7 @@ img:hover {
 
     .categorias__imagem {
         height: 224px;
-        margin-bottom: 0;
+        margin-bottom: 18px;
         background-position-y: bottom;
     }
 
